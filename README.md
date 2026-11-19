@@ -1,4 +1,4 @@
-\# PROJETO 01
+# PROJETO 01
 
 
 
@@ -8,9 +8,9 @@ Projeto criado na aula de ESWII do curso Bacharelado em Sistemas de Informação
 
 
 
-\### Desenvolvido por
+### Desenvolvido por
 
 
 
-\[Hugo Majela](gugue2206@gmail.com)
+[Hugo Majela](gugue2206@gmail.com)
 
